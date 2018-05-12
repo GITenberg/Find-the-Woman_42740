@@ -1,0 +1,37 @@
+_repo: Find-the-Woman_42740
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Cornwell, Dean
+    birthdate: 1892
+    deathdate: 1960
+    gutenberg_agent_id: '37101'
+    url: http://www.gutenberg.org/2009/agents/37101
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Roche, Arthur Somers
+    birthdate: 1883
+    deathdate: 1935
+    gutenberg_agent_id: '41847'
+    url: http://www.gutenberg.org/2009/agents/41847
+description: ''
+gutenberg_issued: '2013-05-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42740'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Young women -- Fiction'
+- !lcsh 'New York (N.Y.) -- Social life and customs -- 20th century -- Fiction'
+- !lcsh 'Motion picture industry -- Fiction'
+- !lcsh 'Love stories'
+- !lcsh 'Detective and mystery stories'
+- !lcc 'PS'
+title: Find the Woman
+url: http://www.gutenberg.org/ebooks/42740
